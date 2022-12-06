@@ -1,4 +1,4 @@
-# 4by2timception
+# 4by2timception Macropad
 
  ![4by2timception](https://user-images.githubusercontent.com/84595044/205848693-743dcb17-f25c-449d-bbf1-439567e6ed2e.jpg)
 
