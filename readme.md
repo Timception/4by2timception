@@ -1,9 +1,7 @@
 # 4by2timception
 
-  │K00│K01│K02│
-  ├───┼───┼───┤
-  │K03│K04│K05│
-  └───┴───┴───┘
+ ![4by2timception](https://user-images.githubusercontent.com/84595044/205848693-743dcb17-f25c-449d-bbf1-439567e6ed2e.jpg)
+
 
 An 8 key mechanical keypad with a rotary encoder, VIAL enabled.
 
