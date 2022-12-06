@@ -1,0 +1,11 @@
+{
+    "manufacturer": "Timception",
+    "keyboard_name": "4by2timception",
+    "maintainer": "Timception",
+	"url": "https://github.com/4by2timception",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x5965",
+        "vid": "0x6559"
+    }    
+}
